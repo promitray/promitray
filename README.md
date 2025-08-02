@@ -1,4 +1,4 @@
-Hello, I am Promit. Here is a short professional summary to introduce myself to you. PLease check my [Linkedin](https://www.linkedin.com/in/promit-ray/) profile out.
+Hello, I am Promit. Here is a short professional summary to introduce myself to you. Please check my [Linkedin](https://www.linkedin.com/in/promit-ray/) profile out.
 
 A computational scientist by training, I am a business-oriented data professional with an analytical mindset and a keen eye for patterns in data. My penchant for crunching numbers and data has guided my career into the healthcare and consulting industries as an experienced data professional. My passion is to work at the intersection of science and data with an emphasis on communicating the fundamentals.
 
